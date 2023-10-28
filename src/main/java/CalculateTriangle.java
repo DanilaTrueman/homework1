@@ -1,4 +1,4 @@
-public class calculateTriangle {
+public class CalculateTriangle {
     public static void main(String[] args)
     {
         double area = calculateTriangleArea(8, 6, 4);

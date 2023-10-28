@@ -1,4 +1,4 @@
-public class calculateCircle {
+public class CalculateCircle {
     public static void main(String[] args)
     {
         double area = calculateCircleArea(8.5);

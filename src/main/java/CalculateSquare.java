@@ -1,4 +1,4 @@
-public class calculateSquare {
+public class CalculateSquare {
     public static void main(String[] args)
     {
         double area = calculateSquareArea(20);
